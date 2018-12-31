@@ -1,0 +1,1 @@
+# courses-image-processing-in-python-with-scikit-image-rebeca-gonzalez
