@@ -43,7 +43,7 @@ This is an example exercise.
 
 ---
 
-## Insert exercise title here
+## Getting started with Thresholding and Histogram Equalization
 
 ```yaml
 type: VideoExercise
